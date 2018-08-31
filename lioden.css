@@ -1,4 +1,6 @@
+@media (min-width:768px) { 
+	body {background:url(http://static.colourlovers.com/images/patterns/4150/4150077.png) !important;}}
 
-body {background:url(http://static.colourlovers.com/images/patterns/4150/4150077.png);}
 
-html {font-family:serif;}
+@media (max-width:768px) { 
+	body {background:url(http://static.colourlovers.com/images/patterns/4150/4150077.png) !important;}}
